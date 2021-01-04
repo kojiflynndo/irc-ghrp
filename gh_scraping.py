@@ -12,13 +12,14 @@ import pandas as pd
 import pickle
 import os
 
+token = #OATH Token
 def scrape():
     COMMITS_URL = "https://api.github.com/repos/markbrough/covid19-data/commits?path=fts-emergency-911.json&sha=gh-pages&page={}"
 
     page = 0
     commits = []
     while True:
-        req = requests.get(COMMITS_URL.format(page), auth=('kojiflynndo', '6d945260869090d6ce8c074a43467ea5366ddec6')).json()
+        req = requests.get(COMMITS_URL.format(page), auth=('kojiflynndo', token)).json()
         if req == []: break
         page += 1
         commits += list(map(lambda commit : commit['sha'], req))
