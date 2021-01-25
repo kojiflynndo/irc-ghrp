@@ -235,11 +235,11 @@ def getNGOdata(df, funders):
 
     for monday in m:
         dict = {'united_nations':0,'world_health_organization':0,'red_cross':0,
-                'ngo':0,'government':0}
+                'ngo':0,'government':0,'uncategorized':0}
         for i in dfDaily.index:
             val = dfDaily['total_amount'][i]
             date = dt.datetime.strptime(str(dfDaily['date'][i]),'%Y-%m-%d').date()
-            impl = dfDaily['implementer'][i]
+            impl = str(dfDaily['implementer'][i])
             if date<=monday:
                 if dfDaily['ngo'][i] == True:
                     dict['ngo']+=val
@@ -256,8 +256,7 @@ def getNGOdata(df, funders):
                     or ('Palestinian territory' in impl)):
                     dict['government']+=val
                 else:
-                    dict['other']+=val
-                    print('unknown category', impl)
+                    dict['uncategorized']+=val
 
         for k, v in dict.items():
             temp = pd.DataFrame([[monday, k, v]],
@@ -476,11 +475,11 @@ def runViz():
     dfViz = cleandf(dfViz)
     allFunders = getFunders(dfViz)
 
-    #stacked(dfViz, allFunders)
-    #plotNGO(dfViz, allFunders)
-    #plotDelays()
-    #plotUSSpeed()
-    #plotUnpaid()
+    stacked(dfViz, allFunders)
+    plotNGO(dfViz, allFunders)
+    plotDelays()
+    # plotUSSpeed()
+    plotUnpaid()
     plotCovid()
 
 runViz()
