@@ -27,6 +27,8 @@ def isNGO(implementer):
     for n in notNGO:
         if n in implementer:
             return False
+        elif implementer == 'nan':
+            return False
     return True
 
 
@@ -296,6 +298,29 @@ def cleandf(df):
         .str.replace('(', '').str.replace(')', '').str.replace(',', '')
 
     return df
+
+
+def checkImplementerBlank():
+    '''
+    Tool to check if the implementer variable is left blank i.e. undesignated
+    '''
+
+    df = pd.read_excel(os.getcwd()+'/input/contributions.xlsx', engine='openpyxl')
+    df = cleandf(df)
+
+    count = 0
+    value = 0
+    funders = {}
+
+    for i in df.index:
+        if df['implementer'][i] is np.nan:
+            if df['funder'][i] not in funders:
+                funders[df['funder'][i]] = [0, 0]
+            funders[df['funder'][i]][0] += 1
+            funders[df['funder'][i]][1] += df['amount_usd'][i]
+
+            count += 1
+            value += df['amount_usd'][i]
 
 
 def main():
