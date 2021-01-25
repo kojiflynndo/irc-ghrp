@@ -51,8 +51,8 @@ European Commission's Humanitarian Aid and Civil Protection Department,2020-05-0
 European Commission's Humanitarian Aid and Civil Protection Department,2019-06-14,Action Against Hunger,True,commitment,0,2292954
 European Commission's Humanitarian Aid and Civil Protection Department,2020-05-20,International Committee of the Red Cross,False,commitment,0,2931596
 European Commission's Humanitarian Aid and Civil Protection Department,2020-05-28,Norwegian Refugee Council,True,commitment,0,1248643
-European Commission's Humanitarian Aid and Civil Protection Department,2020-01-13,,True,commitment,0,87523709
-European Commission's Humanitarian Aid and Civil Protection Department,2020-06-25,,True,commitment,0,441501
+European Commission's Humanitarian Aid and Civil Protection Department,2020-01-13,,False,commitment,0,87523709
+European Commission's Humanitarian Aid and Civil Protection Department,2020-06-25,,False,commitment,0,441501
 European Commission's Humanitarian Aid and Civil Protection Department,2020-06-08,International Committee of the Red Cross,False,commitment,0,7036733
 European Commission's Humanitarian Aid and Civil Protection Department,2020-06-18,United Nations Children's Fund,False,paid,1706485,1763368
 European Commission's Humanitarian Aid and Civil Protection Department,2020-06-04,Danish Red Cross,False,commitment,0,113766
@@ -61,10 +61,10 @@ European Commission's Humanitarian Aid and Civil Protection Department,2020-06-1
 European Commission's Humanitarian Aid and Civil Protection Department,2020-06-29,French Red Cross,False,commitment,0,2234360
 European Commission's Humanitarian Aid and Civil Protection Department,2019-04-09,Alliance for International Medical Action,True,commitment,0,298013
 European Commission's Humanitarian Aid and Civil Protection Department,2020-07-07,Comitato Internationale per lo Sviluppo dei Popoli,True,commitment,0,1679731
-European Commission's Humanitarian Aid and Civil Protection Department,2020-06-17,,True,commitment,0,2071668
+European Commission's Humanitarian Aid and Civil Protection Department,2020-06-17,,False,commitment,0,2071668
 European Commission's Humanitarian Aid and Civil Protection Department,2020-07-10,United Nations High Commissioner for Refugees,False,commitment,0,2639703
 European Commission's Humanitarian Aid and Civil Protection Department,2019-05-28,International Organization for Migration,False,commitment,0,1715527
-European Commission's Humanitarian Aid and Civil Protection Department,2020-02-19,,True,commitment,0,35281146
+European Commission's Humanitarian Aid and Civil Protection Department,2020-02-19,,False,commitment,0,35281146
 European Commission's Humanitarian Aid and Civil Protection Department,2020-04-20,Agency for Technical Cooperation and Development,True,commitment,0,306659
 European Commission's Humanitarian Aid and Civil Protection Department,2019-12-19,Norwegian Refugee Council,True,commitment,0,56698
 European Commission's Humanitarian Aid and Civil Protection Department,2019-12-17,Save the Children,True,commitment,0,1012101
@@ -84,10 +84,10 @@ European Commission's Humanitarian Aid and Civil Protection Department,2019-03-2
 European Commission's Humanitarian Aid and Civil Protection Department,2020-03-11,Concern Worldwide,True,commitment,0,1244344
 European Commission's Humanitarian Aid and Civil Protection Department,2019-07-15,Luxembourg Red Cross,False,commitment,0,32751
 European Commission's Humanitarian Aid and Civil Protection Department,2018-07-13,Care Germany,True,commitment,0,2083333
-European Commission's Humanitarian Aid and Civil Protection Department,2020-06-30,,True,commitment,0,0
+European Commission's Humanitarian Aid and Civil Protection Department,2020-06-30,,False,commitment,0,0
 European Commission's Humanitarian Aid and Civil Protection Department,2020-07-14,Solidarités International,True,commitment,0,967915
 European Commission's Humanitarian Aid and Civil Protection Department,2020-07-02,Save the Children,True,commitment,0,177273
-European Commission's Humanitarian Aid and Civil Protection Department,2020-06-16,,True,commitment,0,0
+European Commission's Humanitarian Aid and Civil Protection Department,2020-06-16,,False,commitment,0,0
 European Commission's Humanitarian Aid and Civil Protection Department,2020-08-16,United Nations Children's Fund,False,paid,4712573,4712573
 European Commission's Humanitarian Aid and Civil Protection Department,2020-07-06,International Organization for Migration,False,commitment,0,1704545
 European Commission's Humanitarian Aid and Civil Protection Department,2019-04-04,Federation Handicap International. Direction Aide Humanitaire,True,commitment,0,224467
@@ -236,9 +236,9 @@ European Commission's Humanitarian Aid and Civil Protection Department,2020-11-2
 "Germany, Government of",2020-09-15,World Food Programme,False,paid,35545024,35545024
 "Germany, Government of",2020-05-08,World Health Organization,False,commitment,0,59152572
 "Germany, Government of",2020-06-24,United Nations Children's Fund,False,paid,3510000,3510000
-"Germany, Government of",2020-05-12,,True,commitment,0,55809
+"Germany, Government of",2020-05-12,,False,commitment,0,55809
 "Germany, Government of",2020-05-20,Food & Agriculture Organization of the United Nations,False,paid,617000,617000
-"Germany, Government of",2020-05-28,,True,commitment,0,108539
+"Germany, Government of",2020-05-28,,False,commitment,0,108539
 "Germany, Government of",2020-06-05,Deutsche Welthungerhilfe e.V. (German Agro Action),True,commitment,0,91409
 "Germany, Government of",2020-07-07,United Nations Children's Fund,False,paid,4204534,4204534
 "Germany, Government of",2020-07-06,World Food Programme,False,commitment,9821883,12029389
@@ -312,7 +312,7 @@ Central Emergency Response Fund,2020-11-16,World Health Organization,False,paid,
 Central Emergency Response Fund,2020-11-13,United Nations High Commissioner for Refugees,False,paid,2000000,2000000
 Central Emergency Response Fund,2020-11-18,United Nations Population Fund,False,paid,750003,750003
 Central Emergency Response Fund,2020-11-24,United Nations Population Fund,False,commitment,1196796,26196796
-Central Emergency Response Fund,2020-11-23,,True,commitment,0,80000000
+Central Emergency Response Fund,2020-11-23,,False,commitment,0,80000000
 Central Emergency Response Fund,2020-11-27,United Nations High Commissioner for Refugees,False,paid,743151,743151
 Central Emergency Response Fund,2020-12-07,United Nations Children's Fund,False,paid,1003631,1003631
 Central Emergency Response Fund,2020-11-09,World Health Organization,False,paid,1214954,1869160
@@ -350,7 +350,7 @@ Central Emergency Response Fund,2020-11-09,World Health Organization,False,paid,
 "Ireland, Government of",2020-10-08,United Nations Children's Fund,False,paid,691020,1782723
 "Ireland, Government of",2020-10-30,International Federation of Red Cross and Red Crescent Societies,False,commitment,0,352113
 "Ireland, Government of",2020-12-07,United Nations Children's Fund,False,paid,1274970,1274970
-"Ireland, Government of",2020-12-21,,True,commitment,0,742720
+"Ireland, Government of",2020-12-21,,False,commitment,0,742720
 "Azerbaijan, Government of",2020-03-06,World Health Organization,False,commitment,0,9512616
 "China, Government of",2020-03-10,World Health Organization,False,commitment,0,25853994
 "China, Government of",2020-04-01,World Health Organization,False,commitment,0,100000
@@ -371,7 +371,7 @@ Afghanistan Humanitarian Fund,2020-05-28,United Nations Children's Fund,False,pa
 Afghanistan Humanitarian Fund,2020-05-29,World Food Programme,False,paid,1421590,1421590
 Afghanistan Humanitarian Fund,2020-07-02,ZOA,True,paid,13699031,13699031
 Afghanistan Humanitarian Fund,2020-07-07,Save the Children,True,paid,256324,256324
-Afghanistan Humanitarian Fund,2020-02-27,,True,commitment,0,0
+Afghanistan Humanitarian Fund,2020-02-27,,False,commitment,0,0
 Afghanistan Humanitarian Fund,2020-08-26,OXFAM,True,paid,689400,689400
 Afghanistan Humanitarian Fund,2020-10-26,Stichting Cordaid,True,paid,1455646,1455646
 Afghanistan Humanitarian Fund,2020-11-02,International Medical Corps,True,paid,993467,993467
@@ -652,7 +652,7 @@ World Bank,2020-10-26,United Nations Children's Fund,False,paid,409336,409336
 "Japan, Government of",2020-07-13,"Djibouti, Government of",False,commitment,0,4665485
 "Japan, Government of",2020-07-15,"Mauritania, Government of",False,commitment,0,932401
 "Japan, Government of",2020-07-16,"Gabon, Government of",False,commitment,0,12121212
-"Japan, Government of",2020-05-20,,True,paid,14073935,14073935
+"Japan, Government of",2020-05-20,,False,paid,14073935,14073935
 "Japan, Government of",2020-02-18,United Nations Population Fund,False,paid,340909,340909
 "Japan, Government of",2020-06-02,World Food Programme,False,paid,1080800,1080800
 "Japan, Government of",2020-09-18,Association for Aid and Relief Japan,True,paid,525960,525960
@@ -807,7 +807,7 @@ Solidarity Response Fund,2020-08-06,World Health Organization,False,commitment,0
 Solidarity Response Fund,2020-05-04,United Nations Children's Fund,False,paid,7678005,7678005
 Solidarity Response Fund,2020-05-14,World Food Programme,False,paid,20000000,20000000
 Sudan Humanitarian Fund,2019-03-19,World Health Organization,False,paid,495247,495247
-Sudan Humanitarian Fund,2020-04-30,,True,paid,8009163,8009163
+Sudan Humanitarian Fund,2020-04-30,,False,paid,8009163,8009163
 Sudan Humanitarian Fund,2020-05-28,World Health Organization,False,paid,1600005,1600005
 Sudan Humanitarian Fund,2020-06-04,United Nations Children's Fund,False,paid,1599651,1599651
 Sudan Humanitarian Fund,2020-08-25,World Vision International,True,paid,7296357,7296357
@@ -831,10 +831,10 @@ occupied Palestinian territory Humanitarian Fund,2020-12-10,Medical Aid for Pale
 "Qatar, Government of",2020-10-11,"Palestinian territory, occupied",False,paid,24833122,24833122
 "Singapore, Government of",2020-04-14,World Health Organization,False,commitment,0,500000
 "Lithuania, Government of",2020-03-18,International Federation of Red Cross and Red Crescent Societies,False,commitment,0,113122
-"Lithuania, Government of",2020-04-08,,True,commitment,0,110376
-"Lithuania, Government of",2020-04-22,,True,commitment,0,109170
-"Lithuania, Government of",2020-06-10,,True,commitment,0,94976
-"Lithuania, Government of",2020-07-01,,True,commitment,0,55991
+"Lithuania, Government of",2020-04-08,,False,commitment,0,110376
+"Lithuania, Government of",2020-04-22,,False,commitment,0,109170
+"Lithuania, Government of",2020-06-10,,False,commitment,0,94976
+"Lithuania, Government of",2020-07-01,,False,commitment,0,55991
 Private (individuals & organizations),2020-03-31,United Nations High Commissioner for Refugees,False,paid,318824,318824
 Private (individuals & organizations),2020-04-02,World Food Programme,False,paid,2000000,2000000
 Private (individuals & organizations),2020-04-01,Plan International,True,paid,54585,54585
@@ -930,11 +930,11 @@ Democratic Republic of the Congo Humanitarian Fund,2020-04-17,UN agencies and NG
 Democratic Republic of the Congo Humanitarian Fund,2020-08-14,Association pour le développement social et la sauvegarde de l’environnement,True,paid,1152400,1152400
 Democratic Republic of the Congo Humanitarian Fund,2020-08-17,World Health Organization,False,paid,8363550,8363550
 Democratic Republic of the Congo Humanitarian Fund,2020-11-04,Programme de Promotion de Soins de Santé Primaires (PPSSP),True,paid,400000,400000
-Myanmar Humanitarian Fund,2020-04-14,,True,commitment,0,4000000
-Myanmar Humanitarian Fund,2020-03-25,,True,commitment,0,339874
+Myanmar Humanitarian Fund,2020-04-14,,False,commitment,0,4000000
+Myanmar Humanitarian Fund,2020-03-25,,False,commitment,0,339874
 Myanmar Humanitarian Fund,2020-08-24,World Food Programme,False,paid,3181581,3181581
 Myanmar Humanitarian Fund,2020-09-14,Handicap International / Humanity & Inclusion,True,paid,8014,8014
-Central African Republic Humanitarian Fund,2020-04-17,,True,commitment,0,3785788
+Central African Republic Humanitarian Fund,2020-04-17,,False,commitment,0,3785788
 Central African Republic Humanitarian Fund,2020-05-27,All for Peace And Dignity,True,paid,275000,275000
 Central African Republic Humanitarian Fund,2020-07-02,Agir en Centrafrique,True,paid,1239212,1239212
 Central African Republic Humanitarian Fund,2020-08-06,Food & Agriculture Organization of the United Nations,False,paid,769333,769333
@@ -1009,8 +1009,8 @@ Ukraine Humanitarian Fund,2020-04-20,HelpAge International,True,paid,300049,3000
 Ukraine Humanitarian Fund,2020-04-22,NGO Proliska,True,paid,853846,853846
 Ukraine Humanitarian Fund,2020-04-24,Médicos del Mundo Spain,True,paid,200000,200000
 Ukraine Humanitarian Fund,2020-04-27,Caritas Ukraine,True,paid,449741,449741
-Ukraine Humanitarian Fund,2020-04-02,,True,paid,7864,7864
-Ukraine Humanitarian Fund,2020-05-09,,True,commitment,0,1750000
+Ukraine Humanitarian Fund,2020-04-02,,False,paid,7864,7864
+Ukraine Humanitarian Fund,2020-05-09,,False,commitment,0,1750000
 Ukraine Humanitarian Fund,2020-06-05,Première Urgence Internationale,True,paid,188500,188500
 Ukraine Humanitarian Fund,2020-06-30,United Nations Children's Fund,False,paid,139997,139997
 Ukraine Humanitarian Fund,2020-08-19,"Charitable Organization Charitable Foundation ""Donbass Development Center""",True,paid,123662,123662
@@ -1021,7 +1021,7 @@ Ukraine Humanitarian Fund,2020-12-08,Youth Organisation,True,paid,112842,112842
 "Portugal, Government of",2020-06-18,United Nations Children's Fund,False,paid,56883,56883
 "Portugal, Government of",2020-07-28,World Food Programme,False,paid,33595,33595
 "Portugal, Government of",2020-04-18,United Nations High Commissioner for Refugees,False,paid,677998,787168
-"Portugal, Government of",2020-05-15,,True,commitment,0,543974
+"Portugal, Government of",2020-05-15,,False,commitment,0,543974
 "Portugal, Government of",2020-05-23,NGOs (details not yet provided),True,commitment,0,461455
 "Portugal, Government of",2020-11-16,World Food Programme,False,commitment,0,176056
 "Finland, Government of",2020-04-27,United Nations High Commissioner for Refugees,False,pledge,1790428,2380037
@@ -1127,8 +1127,8 @@ UNICEF National Committee/Sweden,2020-10-06,COVID-19 Humanitarian Thematic Fund,
 "France, Government of",2020-11-01,Handicap International / Humanity & Inclusion,True,commitment,0,1131222
 "Slovenia, Government of",2018-03-13,United Nations Relief and Works Agency for Palestine Refugees in the Near East,False,commitment,0,54289
 "Slovenia, Government of",2020-05-10,United Nations Children's Fund,False,paid,44643,44643
-"Slovenia, Government of",2020-02-13,,True,commitment,0,77767
-"Slovenia, Government of",2020-04-09,,True,commitment,0,408251
+"Slovenia, Government of",2020-02-13,,False,commitment,0,77767
+"Slovenia, Government of",2020-04-09,,False,commitment,0,408251
 "Netherlands, Government of",2020-05-04,United Nations Development Programme,False,commitment,0,5428882
 "Netherlands, Government of",2020-07-20,World Health Organization,False,commitment,0,56436
 "Netherlands, Government of",2019-10-01,International Organization for Migration,False,paid,215032,215032
@@ -1174,7 +1174,7 @@ unknown,2020-08-09,Direct Aid,True,paid,4198740,4276576
 unknown,2020-06-08,Migrant Offshore Aid Station,True,paid,147000,147000
 unknown,2020-10-30,International Aid Services,True,paid,25000,25000
 unknown,2020-11-20,The Nile Initiative for Development,True,paid,35000,35000
-"Algeria, Government of",2020-05-18,,True,paid,0,0
+"Algeria, Government of",2020-05-18,,False,paid,0,0
 Deutsche Gesellschaft für Internationale Zusammenarbeit,2020-05-01,World Health Organization,False,commitment,0,372635
 Deutsche Gesellschaft für Internationale Zusammenarbeit,2020-06-19,World Health Organization,False,commitment,0,193403
 Deutsche Gesellschaft für Internationale Zusammenarbeit,2020-06-22,World Health Organization,False,commitment,0,284674
@@ -1194,7 +1194,7 @@ UNICEF National Committee/Hong Kong,2020-06-01,COVID-19 Humanitarian Thematic Fu
 "United Arab Emirates, Government of",2020-06-24,United Nations,False,paid,25586832,25586832
 "United Arab Emirates, Government of",2020-08-31,"Kazakhstan, Government of",False,paid,3926640,3926640
 "United Arab Emirates, Government of",2020-09-01,"Iraq, Government of",False,paid,24536280,24536280
-"United Arab Emirates, Government of",2020-08-20,,True,paid,31285996,31285996
+"United Arab Emirates, Government of",2020-08-20,,False,paid,31285996,31285996
 "United Arab Emirates, Government of",2020-06-08,World Food Programme,False,commitment,0,3500000
 "United Arab Emirates, Government of",2020-04-05,"Sudan, Government of",False,paid,20419276,20419276
 "United Arab Emirates, Government of",2020-10-01,"Costa Rica, Government of",False,paid,5400000,5400000
@@ -1211,17 +1211,17 @@ UNICEF National Committee/Australia,2020-04-27,COVID-19 Humanitarian Thematic Fu
 UNICEF National Committee/Australia,2020-07-20,United Nations Children's Fund,False,paid,693114,693114
 UNICEF National Committee/Australia,2020-10-08,United Nations Children's Fund,False,commitment,0,380467
 UNICEF National Committee/Australia,2020-12-07,COVID-19 Humanitarian Thematic Fund,True,paid,26085,26085
-South Sudan Humanitarian Fund,2020-05-26,,True,commitment,0,4996120
+South Sudan Humanitarian Fund,2020-05-26,,False,commitment,0,4996120
 South Sudan Humanitarian Fund,2020-06-26,World Health Organization,False,paid,4999500,4999500
 South Sudan Humanitarian Fund,2020-08-24,Plan International,True,paid,142198,142198
 South Sudan Humanitarian Fund,2020-09-02,INTERSOS Humanitarian Aid Organization,True,paid,1127679,1127679
 South Sudan Humanitarian Fund,2020-09-03,Rural Community Action for Peace and Development,True,paid,1570207,1570207
 South Sudan Humanitarian Fund,2020-09-04,Touch Africa Development Organization,True,paid,1917054,1917054
-Pakistan Humanitarian Fund,2020-05-13,,True,commitment,0,2100195
+Pakistan Humanitarian Fund,2020-05-13,,False,commitment,0,2100195
 Pakistan Humanitarian Fund,2020-05-22,World Health Organization,False,paid,399805,399805
 Pakistan Humanitarian Fund,2020-10-01,Balochistan Rural Support Programme,True,paid,487074,487074
 Pakistan Humanitarian Fund,2020-10-07,Taraqee Foundation,True,paid,959984,959984
-Nigeria Humanitarian Fund,2020-04-30,,True,commitment,0,1115238
+Nigeria Humanitarian Fund,2020-04-30,,False,commitment,0,1115238
 Nigeria Humanitarian Fund,2020-06-26,World Health Organization,False,paid,1113049,1113049
 Nigeria Humanitarian Fund,2020-09-14,INTERSOS Humanitarian Aid Organization,True,paid,920000,920000
 Nigeria Humanitarian Fund,2020-10-07,Agency for Technical Cooperation and Development,True,paid,200000,200000
@@ -1384,7 +1384,7 @@ UNICEF National Committee/Luxembourg,2020-08-10,COVID-19 Humanitarian Thematic F
 UNICEF National Committee/Luxembourg,2020-08-01,United Nations Children's Fund,False,paid,529412,529412
 Malawi SDG Acceleration Fund,2020-07-01,United Nations High Commissioner for Refugees,False,paid,90000,90000
 UNICEF Brazil,2020-07-03,United Nations Children's Fund,False,paid,92007,92007
-Swiss Solidarity,2020-04-01,,True,commitment,0,0
+Swiss Solidarity,2020-04-01,,False,commitment,0,0
 Swiss Solidarity,2020-06-17,Helvetas Swiss Intercooperation,True,commitment,0,1810243
 United Methodist Church,2020-07-20,World Health Organization,False,commitment,0,10000
 OXFAM,2020-08-26,OXFAM,True,paid,20017,20017
