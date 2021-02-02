@@ -26,8 +26,10 @@ Go to the `docs` folder and follow links in the description.
 
 To replicate the entire analysis, download the repository and go to `run_all.py`. In `runAll()`, uncomment each of the function calls then run the file. It may take several minutes to complete the entire analysis.
 
-#### Documentation for Each File
+#### Documentation for Key Scripts
 
 ##### `ghrp_tracker.py`
 
-This is the main file for processing, analyzing, and creating datasets.
+This is the main file for processing, analyzing, and creating datasets. The core functions are `cumulativeByWeek()` and `cumulativeCovidCases()`, each of which create new datasets tracking humanitarian contributions and COVID-19 cases, respectively. `cumulativeByWeek()` calls several helper functions, specifically `fundingByDay()` to get data on each funder for each day from the Development Initiatives dataset, `getMondays()` to get each Monday in the year, and `isNGO()` to see if the recipient was an NGO; then, it outputs `cumulative_funding_weekly.csv`. `cumulativeCovidCases()` takes the COVID-19 dataset from Our World in Data and filters out non-GHRP countries and non-Monday days (again with `getMondays()`. Then, it outputs `covid-cases.csv`.
+
+Also included in `ghrp_tracker.py` are other helper functions to clean dataframe columns (`cleandf()`), check if the implementing recipient is missing (`checkImplementerBlank()`), compute some statistics about COVID-19 cases I was interested in (`covidStats()`), and pull all contributors' names (`getFunders()`).
