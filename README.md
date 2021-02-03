@@ -1,6 +1,6 @@
 # How to Use:
 
-(If you have any questions, comments, or feedback, please get in touch. Contact me at kojiflynndo [AT] gmail.com)
+(If you have any questions, comments, or feedback, please get in touch. Contact me at kojiflynndo [@] gmail.com)
 
 ## For people who want to see the data:
 
