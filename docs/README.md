@@ -1,7 +1,7 @@
 # Visualizations for analysis of humanitarian response [Prototype]
 ## Click a link to view the relevant visualziation
 
-[Reported COVID-19 cases continue to reise in GHRP countries, especially in South America](https://kojiflynndo.github.io/irc-ghrp/casesFacets_2021-01-25.html)
+[Reported COVID-19 cases continue to rise in GHRP countries, especially in South America](https://kojiflynndo.github.io/irc-ghrp/casesFacets_2021-01-25.html)
 
 [Aid disbursements have failed to keep pace with the increasing scale of the COVID-19 crsis](https://kojiflynndo.github.io/irc-ghrp/stacked_2021-01-25.html)
 
