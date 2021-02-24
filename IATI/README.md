@@ -1,4 +1,4 @@
-This is a somewhat hackey workflow--trying out using both R and Python on the same project.
+This is a somewhat hackey workflow. I was trying out using both R and Python on the same project.
 
 To run this, I start with `iati_select.R` to select the rows that match the funders we're interested in, then export those as csv files. This could also be accomplished by writing some Python code using pandas to select the rows you want.
 
