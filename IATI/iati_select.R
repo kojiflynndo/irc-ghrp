@@ -1,5 +1,4 @@
 # File for quickly filtering the actors to sense-check and creating csv files
-# for ECHO, USAID, and 
 
 library('tidyverse')
 library('readxl')
