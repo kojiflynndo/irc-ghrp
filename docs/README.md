@@ -9,7 +9,7 @@
 
 [Area chart of only aid contributions](https://kojiflynndo.github.io/irc-ghrp/cumulativeFunding_2021-01-25.html)
 
-[More than half of unpaid commitments have been outstanding for more than 170 days](https://kojiflynndo.github.io/irc-ghrp/commitDelay_2021-01-25.html)
+[More than half of unpaid commitments have been outstanding for more than 170 days](https://kojiflynndo.github.io/irc-ghrp/commitDelay_2021-01-04.html)
 
 [Funders have not disbursed the majority of their financial flows](https://kojiflynndo.github.io/irc-ghrp/unpaidPc_2021-01-25.html)
 
