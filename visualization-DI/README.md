@@ -1,4 +1,4 @@
-This is the data for recreating visualizations conveniently in Excel. If you're interested in more specifics, visit the `ghrp_viz.py` file in the main branch. If you're interested in how these datasets were put together from the  datasets that were used in the original visualizations, see `di_data_share.py` for the exact procedure.
+This is the data for recreating visualizations conveniently in Excel. If you're interested in more specifics of how the original visualizations were created, visit the `ghrp_viz.py` file in the main branch. If you're interested in how these datasets were put together from the  datasets that were used in the original visualizations, see `di_data_share.py` for the exact procedure.
 
 The data were reconfigured to be easily compatible with other visualization programs, namely Excel. The original visualizations were made with Python and the Altair package, which I take to be somewhat more flexible than Excel (though this is purely speculation--I have no experience using Excel for visualization). If I have speculated poorly about the form of data that would be most easily visualized in Excel, please do let me know!
 
